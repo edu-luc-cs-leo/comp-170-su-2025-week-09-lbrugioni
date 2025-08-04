@@ -81,7 +81,7 @@ class Birthday:
     
 
 # QUICK TEST
-demo = Birthday(,30)
+demo = Birthday(4,30)
 
 print(demo.day_in_year(6,29)) # d_b
 print(demo.day_in_year(4,29)) # d_t
